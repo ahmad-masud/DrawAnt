@@ -15,9 +15,7 @@ DrawMaven is a simple drawing program designed for ease of use and versatility. 
 
 ![DrawMaven](https://user-images.githubusercontent.com/96448477/226243021-334245df-296e-4707-9f1f-3ff64dc4715b.gif)
 
-========================
 # BUILD OUTPUT DESCRIPTION
-========================
 
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
