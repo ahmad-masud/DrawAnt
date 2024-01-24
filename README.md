@@ -32,4 +32,4 @@ DrawMaven is a Java-based drawing application, offering a suite of tools for dig
 Contributions to the DrawMaven project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
 
 ## License
-The DrawMaven project is open-sourced software licensed under the MIT license.
+[MIT License](LICENSE.md) - feel free to use and modify this application as you see fit.
