@@ -1,6 +1,6 @@
 
 # DrawMaven
-![DrawMaven Gif](https://github.com/ahmad-masud/Draw-Maven/assets/96448477/db9a7d5f-5243-44a1-a554-db69c35594db)
+![DrawMaven](images/drawmaven.gif)
 
 ## Description
 DrawMaven is a Java-based drawing application, offering a suite of tools for digital artwork creation. This application is developed using Java and is built with Apache Maven, making it easily integrable with modern IDEs like NetBeans.
