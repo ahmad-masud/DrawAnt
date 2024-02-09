@@ -14,7 +14,7 @@ DrawAnt is a Java-based drawing application, offering a suite of tools for digit
 ## Installation
 
 ### Prerequisites
-- Java JDK 8 or later.
+- Java JDK 19 or later.
 - Apache Ant (for building the project).
 - NetBeans IDE (recommended for easy setup and run).
 
