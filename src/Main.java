@@ -7,8 +7,9 @@ public class Main {
         try { 
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
         } catch (ClassNotFoundException | IllegalAccessException | InstantiationException | UnsupportedLookAndFeelException e) {
+            e.printStackTrace();
         }
-        
+
         Canvas canvas = new Canvas();
     }
     
