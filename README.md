@@ -1,5 +1,5 @@
 # DrawAnt
-![DrawAnt](images/drawant.gif)
+![DrawAnt](resources/drawant.gif)
 
 ## Description
 DrawAnt is a Java-based drawing application, offering a suite of tools for digital artwork creation. This application is developed using Java and is built with Apache Ant, making it easily integrable with modern IDEs like NetBeans.
